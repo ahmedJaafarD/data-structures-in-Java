@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-    // all the code written in this file serve to test the LinkedList ds class
+    // all the code written in this file serve to test the DoublyLinkedList ds class
 
         //---- this part of the code test the append method-----//
         System.out.println("test number 1 append");
